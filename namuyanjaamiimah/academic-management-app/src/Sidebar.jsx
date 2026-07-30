@@ -24,7 +24,7 @@ function Sidebar() {
                     </div>
 
                     <div className="icons">
-                        <a href="">Examinations</a>
+                        <a href="" className="vertical">Examinations</a>
                     </div>
 
                     <div className="icons">
@@ -40,12 +40,12 @@ function Sidebar() {
                     </div>
                 </div>
 
-                <div>
-                    <div>
-                        <button className="btn">+ New admissions</button>
+                <div className="sidebar33">
+                    <div className="btn77">
+                        <button >+ New admissions</button>
                     </div>
                     <p>Settings</p>
-                    <p>Logout</p>
+                    <p className="ppp">Logout</p>
                 </div>
             </div>
             </div >
